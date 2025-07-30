@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_purple">#6C63FF</color>
+    <color name="primary_purple_dark">#5A52E3</color>
+    <color name="secondary_teal">#4ECDC4</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="background_dark">#1A1B2E</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#16213E</color>
+    <color name="text_primary">#2D3748</color>
+    <color name="text_secondary">#718096</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="meditation_accent">#FF9A8B</color>
+    <color name="sleep_accent">#A8E6CF</color>
+</resources>
